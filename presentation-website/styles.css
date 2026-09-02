@@ -81,3 +81,37 @@ p {
     opacity: 0.9;
   }
 }
+
+/* #page-1 {
+  h1 {
+    transform: translateY(-1200px);
+    animation: headingMove var(--animate-speed) forwards ease-in;
+  }
+  p {
+    transform: translateX(-1800px);
+    animation: textMove var(--animate-speed) forwards ease-in;
+  }
+}
+
+@keyframes headingMove {
+  to {
+    transform: translateY(0px);
+  }
+}
+
+@keyframes textMove {
+  to {
+    transform: translateX(0);
+  }
+} */
+
+@media (max-width: 768px) {
+  .page {
+    h1 {
+      font-size: 3.5rem;
+    }
+    p {
+      font-size: 1.1rem;
+    }
+  }
+}
