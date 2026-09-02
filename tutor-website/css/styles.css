@@ -462,6 +462,89 @@ img {
     width: 200px;
 }
 
+/* Newsletter */
+.newsletter {
+    text-align: center;
+    margin: 0 2rem;
+}
+
+.newsletter-flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: var(--light-color);
+    border: 1px solid #eee;
+    padding: 4rem 2rem;
+}
+
+.newsletter h2 {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.newsletter p {
+    max-width: 600px;
+}
+
+.newsletter input[type='email'] {
+    padding: 1rem 2rem;
+    border: 1px solid #ccc;
+    border-radius: 32px;
+    width: 100%;
+    max-width: 400px;
+    margin: 1rem 0;
+}
+
+/* Social */
+.social {
+    background: var(--dark-color);
+    color: #fff;
+    padding: 6rem 2rem;
+    text-align: center;
+    font-size: 1.7rem;
+    margin-bottom: 0;
+}
+
+.social a, .footer a {
+    color: #fff;
+}
+
+.social a:hover, .footer a:hover {
+    color: var(--secondary-color);
+}
+
+.social p {
+    margin-bottom: 2rem;
+}
+
+.social .social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 2rem;
+}
+
+/* Footer */
+.footer {
+    background: var(--dark-color);
+    color: #fff;
+    border-top: 1px solid #384653;
+    padding: 0.5rem 2rem;
+}
+
+.footer-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer ul {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
 /* Media Queries */
 @media (max-width: 1200px) {
     .hero .hero-flex {
@@ -538,6 +621,27 @@ img {
     .info-content p {
         font-size: 1rem;
     }
+
+    .social .social-icons {
+        flex-wrap: wrap;
+    }
+
+    .footer-flex {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .footer {
+        padding: 0.5rem 1rem;
+    }
+
+    .social p {
+        font-size: 1.2rem;
+    }
+
+    .social i {
+        font-size: 2rem;
+    }
 }
 
 @media (max-width: 576px) {
@@ -563,5 +667,13 @@ img {
 
     .stats .stats-numbers {
         flex-direction: column;
+    }
+
+    .newsletter h2 {
+        font-size: 1.5rem;
+    }
+
+    .newsletter p {
+        display: none;
     }
 }
