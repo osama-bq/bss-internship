@@ -2,8 +2,6 @@
 
 A collection of frontend web projects built with HTML, CSS, and JavaScript. The repository contains four larger website projects and three smaller practice projects.
 
-> **Note:** The `html-sandbox-starter` folder is intentionally excluded from this documentation.
-
 ---
 
 ## Project Structure
