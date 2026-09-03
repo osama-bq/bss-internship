@@ -64,7 +64,7 @@ bono-landing-form/
 
 ### Screenshot
 
-![Bono Landing Form Screenshot](./bono.png)
+![Bono Landing Form Screenshot](./ bono.png)
 
 ---
 
