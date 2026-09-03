@@ -64,7 +64,6 @@ bono-landing-form/
 
 ### Screenshot
 
-<!-- Replace the placeholder below with a project screenshot. -->
 ![Bono Landing Form Screenshot](./bono.png)
 
 ---
@@ -125,7 +124,6 @@ lumina-creative/
 
 ### Screenshot
 
-<!-- Replace the placeholder below with a project screenshot. -->
 ![Lumina Creative Screenshot](./lumina.png)
 
 ---
@@ -193,7 +191,6 @@ tutor-website/
 
 ### Screenshot
 
-<!-- Replace the placeholder below with a project screenshot. -->
 ![Tutor Website Screenshot](./tutor.png)
 
 ---
@@ -260,7 +257,6 @@ leno-website/
 
 ### Screenshot
 
-<!-- Replace the placeholder below with a project screenshot. -->
 ![Leno Website Screenshot](./leno.png)
 
 ---
