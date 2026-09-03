@@ -65,7 +65,7 @@ bono-landing-form/
 ### Screenshot
 
 <!-- Replace the placeholder below with a project screenshot. -->
-![Bono Landing Form Screenshot](./screenshots/bono-landing-form.png)
+![Bono Landing Form Screenshot](./bono.png)
 
 ---
 
@@ -126,7 +126,7 @@ lumina-creative/
 ### Screenshot
 
 <!-- Replace the placeholder below with a project screenshot. -->
-![Lumina Creative Screenshot](./screenshots/lumina-creative.png)
+![Lumina Creative Screenshot](./lumina.png)
 
 ---
 
@@ -194,7 +194,7 @@ tutor-website/
 ### Screenshot
 
 <!-- Replace the placeholder below with a project screenshot. -->
-![Tutor Website Screenshot](./screenshots/tutor-website.png)
+![Tutor Website Screenshot](./tutor.png)
 
 ---
 
@@ -261,7 +261,7 @@ leno-website/
 ### Screenshot
 
 <!-- Replace the placeholder below with a project screenshot. -->
-![Leno Website Screenshot](./screenshots/leno-website.png)
+![Leno Website Screenshot](./leno.png)
 
 ---
 
