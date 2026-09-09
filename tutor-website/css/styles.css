@@ -667,6 +667,10 @@ img {
         display: none;
     }
 
+    .navbar-flex.container {
+        padding: 0;
+    }
+
     .navbar .mobile-menu {
         display: block;
     }
