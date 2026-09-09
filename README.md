@@ -199,7 +199,9 @@ tutor-website/
 
 **Folder root:** `./leno-website/`
 
-**Live Demo:** https://zingy-dodol-213c9d.netlify.app/
+**Live Demo:**
+https://bss-internship-uumq.vercel.app/
+<!-- https://zingy-dodol-213c9d.netlify.app/ -->
 
 ### Overview
 
@@ -338,4 +340,4 @@ presentation-website/
 | Bono Landing Form | https://dashing-mooncake-082de3.netlify.app/ |
 | Lumina Creative | https://6a992155be397f8d8a1ab9e3--sage-entremet-b66951.netlify.app/ |
 | Tutor Website | https://bss-internship.vercel.app/ |
-| Leno Website | https://zingy-dodol-213c9d.netlify.app/ |
+| Leno Website | https://bss-internship-uumq.vercel.app/ |
